@@ -13,7 +13,7 @@ metadata:
   namespace: vcluster1
 spec:
   rules:
-  - host: vcluster1.lanbing.tech
+  - host: vcluster1.walk1ng.tech
     http:
       paths:
       - path: /
