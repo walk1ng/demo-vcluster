@@ -37,7 +37,7 @@ spec:
     port: 443
     protocol: TCP
     targetPort: 8443
-    nodePort: 31543
+    nodePort: 31643
   selector:
     app: vcluster
   sessionAffinity: None
