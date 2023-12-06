@@ -8,6 +8,7 @@ spec:
   - list:
       elements:
       - cluster: vcluster1
+      - cluster: vcluster2
   template:
     metadata:
       name: '{{cluster}}'
